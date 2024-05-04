@@ -79,12 +79,12 @@ table tr:hover {
 html,
 body {
   width: 100%;
-  overflow-x: hidden;
 }
 
 body {
   font-family: 'Stolzl', sans-serif;
   font-weight: 300;
+  overflow-x: hidden;
 }
 
 h1,
