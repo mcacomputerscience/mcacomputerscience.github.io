@@ -76,6 +76,16 @@ table tr:hover {
   content: "-";
 }
 
+.ms-hs-btn-container .btn-outline-primary {
+  color: #333399;
+  border-color: #333399;
+  padding: 1rem 1.5rem;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  /* border-radius: .3rem; */
+}
+
+
 /*
  * Roxy: Bootstrap template by GettTemplates.com
  * https://gettemplates.co/roxy
