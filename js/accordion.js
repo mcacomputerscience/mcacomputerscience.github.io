@@ -13,5 +13,5 @@ $(".sponsor-slider").owlCarousel({
   autoplay: true,
   autoplaySpeed: 1e3,
   navText: ['<span class="fa fa-angle-left"></span>', '<span class="fa fa-angle-right"></span>'],
-  responsive: { 0: { items: 1 }, 600: { items: 3 }, 1e3: { items: 6 } }
+  responsive: { 0: { items: 1 }, 600: { items: 3 }, 1e3: { items: 5 } }
 })
